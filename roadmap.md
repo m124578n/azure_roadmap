@@ -5,7 +5,7 @@
 | Week | Topic | Status | Dev.to URL |
 |------|-------|--------|------------|
 | W20 | What is Azure? A Beginner's Map | published | https://dev.to/shunchih/what-is-azure-a-beginners-map-424p |
-| W21 | Azure Identity: Entra ID vs Traditional AD | planned | |
+| W21 | Azure Identity: Entra ID vs Traditional AD | drafting | |
 | W22 | Azure Resource Manager & Resource Groups | planned | |
 | W23 | Azure Networking Basics: VNet, Subnet, NSG | planned | |
 | W24 | Azure Storage: Blob, Table, Queue, File | planned | |
