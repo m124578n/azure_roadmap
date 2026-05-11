@@ -9,6 +9,9 @@ desktop.ini
 *.swp
 *~
 
+# Claude Code
+.claude/settings.local.json
+
 # Temp / drafts
 *.tmp
 *.bak
