@@ -2,11 +2,13 @@
 
 **Week:** W20 (2026-05-11)
 **Status:** published
-**Dev.to URL:** (fill after publish)
+**Dev.to URL:** [(fill after publish)](https://dev.to/shunchih/what-is-azure-a-beginners-map-424p)
 
 ---
 
 ## Introduction
+
+![Microsoft Azure](FILL_IN_IMAGE_URL)
 
 Azure is Microsoft's cloud platform. With Azure, you can build and tear down an entire environment without purchasing any physical hardware.
 
