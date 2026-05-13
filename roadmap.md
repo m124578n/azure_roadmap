@@ -2,20 +2,20 @@
 
 > Status flow: `planned` → `drafting` → `reviewing` → `published`
 
-| Week | Topic | Status | Dev.to URL |
-|------|-------|--------|------------|
-| W20 | What is Azure? A Beginner's Map | published | https://dev.to/shunchih/what-is-azure-a-beginners-map-424p |
-| W21 | Azure Identity: Entra ID vs Traditional AD | drafting | |
-| W22 | Azure Resource Manager & Resource Groups | planned | |
-| W23 | Azure Networking Basics: VNet, Subnet, NSG | planned | |
-| W24 | Azure Storage: Blob, Table, Queue, File | planned | |
-| W25 | Azure Compute: VMs, App Service, Functions | planned | |
-| W26 | Azure Monitor & Log Analytics | planned | |
-| W27 | Azure Policy & Governance | planned | |
-| W28 | Azure Cost Management | planned | |
-| W29 | Introduction to IaC on Azure | planned | |
-| W30 | Azure Bicep: First Steps | planned | |
-| W31 | Bicep vs Terraform: A Real-World Comparison | planned | |
+| Week | Topic | Cert | Status | Dev.to URL |
+|------|-------|------|--------|------------|
+| W20 | What is Azure? A Beginner's Map | AZ-900 | published | https://dev.to/shunchih/what-is-azure-a-beginners-map-424p |
+| W21 | Azure Resource Manager (ARM) — How Resources Are Organized | AZ-900 | drafting | |
+| W22 | Identity in Azure: Entra ID, RBAC, and Why It Matters | AZ-900 | planned | |
+| W23 | Azure Pricing Model Explained Simply | AZ-900 | planned | |
+| W24 | Azure Virtual Machines: Compute Choices and When to Use Each | AZ-104 | planned | |
+| W25 | Azure Storage Tiers: Blob, Table, Queue, and Files | AZ-104 | planned | |
+| W26 | Azure Networking Basics: VNet, NSG, and Subnetting | AZ-104 | planned | |
+| W27 | Azure Key Vault: Managing Secrets the Right Way | AZ-104 | planned | |
+| W28 | Azure Monitor and Alerting — Observability Fundamentals | AZ-104 | planned | |
+| W29 | Azure Policy and Governance: Keeping Environments Clean | AZ-104 | planned | |
+| W30 | Bicep vs Terraform on Azure: IaC Comparison | AZ-400 | planned | |
+| W31 | Azure Data Factory: Building Your First Pipeline | DP-203 | planned | |
 
 ## Correction Level
 

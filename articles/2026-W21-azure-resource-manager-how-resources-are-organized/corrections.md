@@ -1,4 +1,4 @@
-# Corrections — W21: Azure Identity: Entra ID vs Traditional Active Directory
+# Corrections — W21: Azure Resource Manager (ARM) — How Resources Are Organized
 
 ## Summary of Changes
 
